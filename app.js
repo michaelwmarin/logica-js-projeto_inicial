@@ -9,6 +9,7 @@ while (tentativas < 3) {
     chute = prompt('Digite um número entre 0 e 100');
     if (chute == numeroSecreto) {
             alert(`Você acertou! Parabéns! com ${tentativas + 1} tentativas`);
+            alert('Fim de jogo');
                 break;
         } else if (chute < 0 || chute > 100) {
             alert('Você deve digitar um número entre 0 e 100');
@@ -24,7 +25,9 @@ while (tentativas < 3) {
                 tentativas++;
         } else if (chute === null) {
             alert('O jogo acabou. Você desistiu');
+        }
     }
+if (tentativas == 3 && chute != numeroSecreto) {
+    alert(`Suas tentativas acabaram. O número secreto era ${numeroSecreto}`);
+    alert('Fim de jogo');
 }
-alert(`Suas tentativas acabaram. O número secreto era ${numeroSecreto}`);
-alert('Fim de jogo');
