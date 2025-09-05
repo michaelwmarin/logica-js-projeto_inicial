@@ -1,8 +1,8 @@
 alert('Boas-vindas ao jogo do Número Secreto');
 alert('Você tem 3 tentativas para acertar');
 
-let numeroSecreto = 29;
-let chute 
+let numeroSecreto = Math.floor(Math.random() * 101);
+let chute;
 let tentativas = 0;
 
 while (tentativas < 3) {
