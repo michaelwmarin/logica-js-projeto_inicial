@@ -1,9 +1,3 @@
-Com certeza\! Aqui está o conteúdo pronto para o seu ficheiro `README.md`.
-
-Pode copiar e colar o texto abaixo num novo ficheiro e guardá-lo como `README.md` na pasta principal do seu projeto.
-
------
-
 # 🚀 Jogo do Número Secreto
 
 ## 📜 Descrição
