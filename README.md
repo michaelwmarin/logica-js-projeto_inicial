@@ -2,6 +2,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javas&logoColor=black)
+
 ## 📜 Descrição
 
 Bem-vindo ao Jogo do Número Secreto\! Um projeto interativo e dinâmico desenvolvido para desafiar as suas capacidades de adivinhação. O objetivo é simples: descobrir o número secreto gerado aleatoriamente dentro de um número limitado de tentativas.
